@@ -1,1 +1,3 @@
-go samata hospital.
+>> Go samata hospital.
+>> This is an affordable hospital in Nepal.
+>> It is run by "MAHA-jodi" foundation.
